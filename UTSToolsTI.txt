@@ -3,7 +3,6 @@ GitHub
 - apa saja yang bisa dilakukan dengan GitHub?
 - cara kerja dari GitHub (Praktek)
 - lanjut Git
-- coba aja dulu guys
 
 Git
 - apa itu Git?
