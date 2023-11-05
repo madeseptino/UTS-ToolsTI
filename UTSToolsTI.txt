@@ -1,6 +1,9 @@
 GitHub
 - apa itu GitHub?
 - apa saja yang bisa dilakukan dengan GitHub?
+  *Brench
+  *merge
+  *fork
 - cara kerja dari GitHub (Praktek)
 - lanjut Git
 
