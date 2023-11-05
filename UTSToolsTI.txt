@@ -1,0 +1,9 @@
+GitHub
+- apa itu GitHub?
+- apa saja yang bisa dilakukan dengan GitHub?
+- cara kerja dari GitHub (Praktek)
+
+Git
+- apa itu Git?
+- apa saja yang bisa dilakukan dengan Git?
+- cara kerja Git (praktek)
